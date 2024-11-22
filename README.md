@@ -3,13 +3,14 @@ List of software engineering books I have read.
 
 ## Table of Contents
 
-1. [Clean Code: A Handbook of Agile Software Craftsmanship](#clean-code)  
-2. [Design Patterns: Elements of Reusable Object-Oriented Software](#design-patterns)  
-3. [Patterns of Enterprise Application Architecture](#patterns-of-enterprise-application-architecture)  
-4. [Clean Architecture: A Craftsman's Guide to Software Structure and Design](#clean-architecture)  
-5. [Designing Data–Intensive Applications](#designing-data-intensive-applications)  
-6. [Building Microservices: Designing Fine-Grained Systems](#building-microservices)  
-7. [Observability Engineering: Achieving Production Excellence](#observability-engineering)
+1. [Clean Code: A Handbook of Agile Software Craftsmanship](#clean-code)
+2. [Effective Java](#effective-java)
+3. [Design Patterns: Elements of Reusable Object-Oriented Software](#design-patterns)  
+4. [Patterns of Enterprise Application Architecture](#patterns-of-enterprise-application-architecture)  
+5. [Clean Architecture: A Craftsman's Guide to Software Structure and Design](#clean-architecture)  
+6. [Designing Data–Intensive Applications](#designing-data-intensive-applications)  
+7. [Building Microservices: Designing Fine-Grained Systems](#building-microservices)  
+8. [Observability Engineering: Achieving Production Excellence](#observability-engineering)
 
 ## August 2023
 ### Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin) <a name="clean-code"></a>
@@ -23,7 +24,7 @@ List of software engineering books I have read.
 Clean Code was a pleasure to read, and it had an enormous impact on my coding practices. Since I primarily work with Java, the book’s insights were particularly relevant and valuable. I believe this is a must-read for all new developers, as it provides essential principles for writing maintainable and efficient code.
 
 ## September 2023
-### Effective Java (Joshua Bloch) <a name="clean-code"></a>
+### Effective Java (Joshua Bloch) <a name="effective-java"></a>
 #### How did I enjoy my lecture ?
 &starf; &starf; &starf; &star; &star;
 
