@@ -29,7 +29,7 @@ How did I enjoy my lecture ?
 &starf; &starf; &star; &star; &star;
 
 What was the impact on my software engineer job ?
-&starf; &starf; &star; &star; &star;
+&starf; &starf; &starf; &star; &star;
 
 Comment
 
