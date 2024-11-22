@@ -1,4 +1,4 @@
-# sofware-books
+# Software engineering books
 List of software engineering books I have read.
 
 ## August 2023
