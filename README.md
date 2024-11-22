@@ -76,7 +76,7 @@ Clean Architecture provides a clear and concise overview of key design and archi
 &starf; &starf; &starf; &starf; &starf;
 
 #### Comment
-Designing Data–Intensive Applications is a must-read for anyone looking to level up their software engineering career. While I found some parts of the book challenging, I learned a lot and was impressed by the wide range of topics it covers. From serialization—finally understanding how Protocol Buffers (Protobuf) work—to data replication, distributed systems, and more, it dives deep into the complexities behind designing data-intensive applications. This book gave me a much deeper understanding of data systems and their critical role in modern software development.
+Designing Data–Intensive Applications is a must-read for anyone looking to level up their software engineering career. While I found some parts of the book challenging (why it tooks 4 months for me to finish it), I learned a lot and was impressed by the wide range of topics it covers. From serialization—finally understanding how Protocol Buffers (Protobuf) work—to data replication, distributed systems, and more, it dives deep into the complexities behind designing data-intensive applications. This book gave me a much deeper understanding of data systems and their critical role in modern software development.
 
 ## June 2024
 ### Building Microservices: Designing Fine-Grained Systems (Sam Newman) <a name="building-microservices"></a> 
