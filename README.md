@@ -17,7 +17,7 @@ List of software engineering books I have read.
 #### How did I enjoy my lecture ?
 &starf; &starf; &starf; &starf; &starf;
 
-#### What was the impact on my software engineer job ?
+#### Did it have a big impact on my software engineer job ?
 &starf; &starf; &starf; &starf; &starf;
 
 #### Comment
@@ -28,7 +28,7 @@ Clean Code was a pleasure to read, and it had an enormous impact on my coding pr
 #### How did I enjoy my lecture ?
 &starf; &starf; &starf; &star; &star;
 
-#### What was the impact on my software engineer job ?
+#### Did it have a big impact on my software engineer job ?
 &starf; &starf; &starf; &starf; &star;
 
 #### Comment
@@ -50,7 +50,7 @@ Design Patterns was a bit challenging to read in one go. I would recommend break
 #### How did I enjoy my lecture ?
 &starf; &starf; &star; &star; &star;
 
-#### What was the impact on my software engineer job ?
+#### Did it have a big impact on my software engineer job ?
 &starf; &starf; &starf; &star; &star;
 
 #### Comment
@@ -61,7 +61,7 @@ Patterns of Enterprise Application Architecture might feel a bit dated for exper
 #### How did I enjoy my lecture ?
 &starf; &starf; &starf; &starf; &star;
 
-#### What was the impact on my software engineer job ?
+#### Did it have a big impact on my software engineer job ?
 &starf; &starf; &starf; &starf; &starf;
 
 #### Comment
@@ -72,7 +72,7 @@ Clean Architecture provides a clear and concise overview of key design and archi
 #### How did I enjoy my lecture ?
 &starf; &starf; &starf; &starf; &star;
 
-#### What was the impact on my software engineer job ?
+#### Did it have a big impact on my software engineer job ?
 &starf; &starf; &starf; &starf; &starf;
 
 #### Comment
@@ -83,7 +83,7 @@ Designing Data–Intensive Applications is a must-read for anyone looking to lev
 #### How did I enjoy my lecture ?
 &starf; &starf; &starf; &starf; &star;
 
-#### What was the impact on my software engineer job ?
+#### Did it have a big impact on my software engineer job ?
 &starf; &starf; &starf; &star; &star;
 
 #### Comment
