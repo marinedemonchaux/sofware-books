@@ -11,6 +11,7 @@ List of software engineering books I have read.
 6. [Designing Data–Intensive Applications](#designing-data-intensive-applications)  
 7. [Building Microservices: Designing Fine-Grained Systems](#building-microservices)  
 8. [Observability Engineering: Achieving Production Excellence](#observability-engineering)
+9. [Prompt Engineering for LLM](#prompt-engineering)
 
 ## August 2023
 ### Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin) <a name="clean-code"></a>
@@ -89,8 +90,28 @@ Designing Data–Intensive Applications is a must-read for anyone looking to lev
 #### Comment
 TBD
 
-## Coming
+## February 2025
 ### Observability Engineering: Achieving Production Excellence (Charity Majors, Liz Fong-Jones, George Miranda) <a name="observability-engineering"></a> 
+#### How did I enjoy my lecture ?
+&starf; &starf; &starf; &starf; &starf;
+
+#### Did it have a big impact on my software engineer job ?
+&starf; &starf; &starf; &starf; &star;
+
+#### Comment
+I really enjoyed reading Observability Engineering: Achieving Production Excellence. The writing is engaging and accessible. Since I already work on an observability product, some concepts were familiar to me, but I still found great value in the discussions—especially around OpenTelemetry and practical approaches to effective monitoring. It’s a solid read for anyone looking to build or improve observability practices in production systems.
+
+## Summer 2025
+### Prompt Engineering for LLMs: The Art and Science of Building Large Language Model-Based Applications (John Berryman, Albert Ziegler) <a name="prompt-engineering"></a> 
+#### How did I enjoy my lecture ?
+TBD
+#### Did it have a big impact on my software engineer job ?
+TBD
+#### Comment
+TBD
+
+
+## To Read List
 
 
 
