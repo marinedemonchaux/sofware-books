@@ -104,12 +104,13 @@ I really enjoyed reading Observability Engineering: Achieving Production Excelle
 ## January 2026
 ### Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems (Antonio Gullí) <a name="agentic-design-patterns"></a> 
 #### How did I enjoy my lecture ?
-TBD
-#### Did it have a big impact on my software engineer job ?
-TBD
-#### Comment
-TBD
+&starf; &starf; &starf; &starf; &star;
 
+#### Did it have a big impact on my software engineer job ?
+&starf; &starf; &starf; &starf; &star;
+
+#### Comment
+The lecture offers a good overview of agentic design patterns and points to useful sources. Some parts felt repetitive, and a few sections, especially the conclusion and some code explanations, did not add much value and felt a bit generic. That said, the pattern list itself is solid and relevant for real world use.
 
 ## To Read List
 
